@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jimmy.makro24@gmail.com**
 
-- ⚡ Fun fact **I'm on my last stage of depression**
+- ⚡ Fun fact **I'm on the last stage of depression**
 
 - 💬 **Each and every project is getting published after the deadlines and the examination**
 
