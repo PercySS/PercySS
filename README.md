@@ -11,7 +11,7 @@
 
 - 💬 **Each and every project is getting published after the deadlines and the examination**
 
-- https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg Ancient Dog#8394
+- <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ancient Dog#8394" height="5" width="15" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/20235327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20235327" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011068027993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Δημήτρης Μακρογιάννης" height="30" width="40" /></a>
 <a href="https://instagram.com/dim_makr0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dim_makr0_" height="30" width="40" /></a>
-<a href="https://discord.gg/Ancient Dog#8394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ancient Dog#8394" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
