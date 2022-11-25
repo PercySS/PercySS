@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitrios Makrogiannis</h1>
+<h1 align="center">Hi 👋, I'm Dimitris Makrogiannis</h1>
 <h3 align="center">An undergraduate Computer Science Student (UoC) looking for an answer.</h3>
 
 - 🔭 I’m currently working on **Getting my computer science degree**
