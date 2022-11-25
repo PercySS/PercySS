@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm on my last stage of depression**
 
--💬 **Each and every project is getting published after the deadlines and the examination**
+- 💬 **Each and every project is getting published after the deadlines and the examination**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
