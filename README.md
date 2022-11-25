@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I'm on my last stage of depression**
 
+-💬 **Each and every project is getting published after the deadlines and the examination**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/JimmyMakro32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimmymakro32" height="30" width="40" /></a>
