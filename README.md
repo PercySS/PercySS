@@ -11,7 +11,7 @@
 
 - 💬 **Each and every project is getting published after the deadlines and the examination**
 
-- <a href="https://discord.gg" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ancient Dog#8394" height="20" width="30" /></a> **Ancient Dog#8394**
+- <a href="https://discord.gg" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ancient Dog#8394" height="20" width="30" /></a>**Ancient Dog#8394**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
