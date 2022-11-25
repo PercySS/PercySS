@@ -11,6 +11,8 @@
 
 - 💬 **Each and every project is getting published after the deadlines and the examination**
 
+- https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg Ancient Dog#8394
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/JimmyMakro32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimmymakro32" height="30" width="40" /></a>
