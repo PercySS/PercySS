@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitris Makrogiannis</h1>
+<h1 align="center">Hi 👋, I'm PercySS</h1>
 <h3 align="center">An undergraduate Computer Science Student (UoC) looking for an answer.</h3>
 
 - 🔭 I’m currently working on **Getting my computer science degree**
@@ -18,8 +18,6 @@
 <a href="https://twitter.com/JimmyMakro32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimmymakro32" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dimitris-makrogiannis-95033b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitris makrogiannis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20235327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20235327" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100011068027993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Δημήτρης Μακρογιάννης" height="30" width="40" /></a>
-<a href="https://instagram.com/dim_makr0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dim_makr0_" height="30" width="40" /></a>
 
 </p>
 
