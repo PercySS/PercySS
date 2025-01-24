@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PercySS](https://github.com/PercySS)
 
-- 📫 How to reach me **jimmy.makro24@gmail.com**
+- 📫 How to reach me **makrogiannisd@gmail.com**
 
 - ⚡ Fun fact **I'm on the last stage of depression**
 
